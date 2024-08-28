@@ -49,25 +49,25 @@ Class-Path: outjar/cucumber-java-7.18.0.jar outjar/apiguardian-api-1.1.2
  /poi-ooxml-5.3.0.jar outjar/poi-ooxml-lite-5.3.0.jar outjar/xmlbeans-5.
  2.1.jar outjar/curvesapi-1.08.jar outjar/junit-vintage-engine-5.10.3.ja
  r outjar/testng-7.10.2.jar outjar/jcommander-1.82.jar outjar/jquery-3.7
- .1.jar outjar/cucumber-pdf-plugin-1.14.0.jar outjar/lombok-1.18.18.jar 
- outjar/cucumber-pdf-report-2.13.0.jar outjar/pdfbox-2.0.26.jar outjar/f
- ontbox-2.0.26.jar outjar/commons-logging-1.2.jar outjar/xchart-3.8.0.ja
- r outjar/VectorGraphics2D-0.13.jar outjar/graphics2d-0.30.jar outjar/an
- imated-gif-lib-1.4.jar outjar/snakeyaml-2.0.jar outjar/table-layout-1.5
- .1.jar outjar/jsoup-1.15.3.jar outjar/cucumber-json-report-data-generat
- or-1.1.0.jar outjar/maven-plugin-api-3.6.3.jar outjar/maven-model-3.6.3
- .jar outjar/maven-artifact-3.6.3.jar outjar/org.eclipse.sisu.plexus-0.3
- .4.jar outjar/cdi-api-1.0.jar outjar/jsr250-api-1.0.jar outjar/javax.in
- ject-1.jar outjar/org.eclipse.sisu.inject-0.3.4.jar outjar/plexus-compo
- nent-annotations-1.5.5.jar outjar/plexus-utils-3.2.1.jar outjar/plexus-
- classworlds-2.6.0.jar outjar/extentreports-cucumber7-adapter-1.14.0.jar
-  outjar/extentreports-5.1.0.jar outjar/rxjava-3.1.6.jar outjar/reactive
- -streams-1.0.4.jar outjar/freemarker-2.3.32.jar outjar/extent-pdf-repor
- t-2.12.0.jar outjar/rest-assured-cucumber-pdf-report-1.5.0.jar outjar/k
- lov-reporter-5.1.0.jar outjar/mongodb-driver-3.6.4.jar outjar/mongodb-d
- river-core-3.6.4.jar outjar/bson-3.6.4.jar outjar/httpclient-4.5.13.jar
-  outjar/httpcore-4.4.13.jar outjar/httpmime-4.5.13.jar outjar/htmlexten
- treporter-1.1.0.jar outjar/extent-excel-report-1.4.0.jar
+ .1.jar outjar/cucumber-pdf-plugin-1.14.0.jar outjar/cucumber-pdf-report
+ -2.13.0.jar outjar/pdfbox-2.0.26.jar outjar/fontbox-2.0.26.jar outjar/c
+ ommons-logging-1.2.jar outjar/xchart-3.8.0.jar outjar/VectorGraphics2D-
+ 0.13.jar outjar/graphics2d-0.30.jar outjar/animated-gif-lib-1.4.jar out
+ jar/snakeyaml-2.0.jar outjar/table-layout-1.5.1.jar outjar/jsoup-1.15.3
+ .jar outjar/cucumber-json-report-data-generator-1.1.0.jar outjar/maven-
+ plugin-api-3.6.3.jar outjar/maven-model-3.6.3.jar outjar/maven-artifact
+ -3.6.3.jar outjar/org.eclipse.sisu.plexus-0.3.4.jar outjar/cdi-api-1.0.
+ jar outjar/jsr250-api-1.0.jar outjar/javax.inject-1.jar outjar/org.ecli
+ pse.sisu.inject-0.3.4.jar outjar/plexus-component-annotations-1.5.5.jar
+  outjar/plexus-utils-3.2.1.jar outjar/plexus-classworlds-2.6.0.jar outj
+ ar/extentreports-cucumber7-adapter-1.14.0.jar outjar/extentreports-5.1.
+ 0.jar outjar/rxjava-3.1.6.jar outjar/reactive-streams-1.0.4.jar outjar/
+ freemarker-2.3.32.jar outjar/extent-pdf-report-2.12.0.jar outjar/rest-a
+ ssured-cucumber-pdf-report-1.5.0.jar outjar/klov-reporter-5.1.0.jar out
+ jar/mongodb-driver-3.6.4.jar outjar/mongodb-driver-core-3.6.4.jar outja
+ r/bson-3.6.4.jar outjar/httpclient-4.5.13.jar outjar/httpcore-4.4.13.ja
+ r outjar/httpmime-4.5.13.jar outjar/htmlextentreporter-1.1.0.jar outjar
+ /extent-excel-report-1.4.0.jar
 Main-Class: theMainClass
 Created-By: Maven Integration for Eclipse
 
